@@ -6,7 +6,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/Bikmul_24">
+  <a href="https://t.me/LineGM">
   <img src="https://img.shields.io/badge/telegram-Bikmul__24-blue?style=for-the-badge&logo=tg&logoColor=white">
   </a>
 </div>
