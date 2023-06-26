@@ -23,7 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://www.flaticon.com/free-icon/json_10282936?term=json+file&page=1&position=6&origin=tag&related_id=10282936" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fjson-      
+  file_136443&psig=AOvVaw3FJ1PFVUiExDVlnfu92xCL&ust=1687903034245000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiymvj24f8CFQAAAAAdAAAAABAI" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
 </div>
 
 Skills: C/C++ / Python / Java / Linux / SQL / Make / Vim / Bash / Git / JSON
