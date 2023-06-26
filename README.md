@@ -1,6 +1,10 @@
 ### Hi, my name is Gleb 👋
 #### I am a beginner developer from Kazan, Russia.
 
+#### :student: At the moment I am a fourth-year student at the Kazan National Research Technical University named after A.N. Tupolev - KAI :airplane:
+#### I am studying in the specialty: Informatics and computer engineering. Artificial intelligence and CAD.
+#### :student: Additionally, I am getting an education in computer science at School 21, which is sponsored by the largest Russian IT company - Sberbank. My nickname is Lhanna.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 </div>
@@ -11,7 +15,7 @@
   </a>
 </div>
 
-## :hammer_and_wrench: Skills:
+## Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
