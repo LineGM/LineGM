@@ -1,6 +1,6 @@
 ### Hi, my name is Gleb 👋
 #### I am a beginner developer from Kazan, Russia.
-![I am a beginner developer from Kazan, Russia.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a beginner developer from Kazan, Russia.](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
