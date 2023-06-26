@@ -1,3 +1,9 @@
+<div id="badges" align="center">
+  <a href="https://t.me/Bikmul_24">
+  <img src="https://img.shields.io/badge/telegram-Bikmul__24-blue?style=for-the-badge&logo=tg&logoColor=white">
+  </a>
+</div>
+
 ### Hi, my name is Gleb 👋
 #### I am a beginner developer from Kazan, Russia.
 ![I am a beginner developer from Kazan, Russia.](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
