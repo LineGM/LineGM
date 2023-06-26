@@ -6,10 +6,6 @@ My major: Informatics and computer engineering. Artificial intelligence and CAD.
 
 Additionally, I am getting an education in computer science at School 21, which is sponsored by the largest Russian IT company - Sberbank. My nickname is Lhanna.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://t.me/LineGM">
   <img src="https://img.shields.io/badge/telegram-LineGM-black?style=for-the-badge&logo=tg&logoColor=white">
