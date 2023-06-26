@@ -26,7 +26,7 @@
   <img src="https://user-images.githubusercontent.com/11060565/181719546-bc83cdb5-faa0-4e98-919c-a0e45e8e68be.png" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
 </div>
 
-C/C++/Python/Java/Linux/SQL/Make/Vim/Bash/Git/JSON
+C   /C++   /Python/Java /Linux /SQL   /Make  /Vim/Bash/Git/JSON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LineGM)](https://github.com/anuraghazra/github-readme-stats)
 
