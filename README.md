@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, my name is Gleb 👋
+### Hi, my name is Gleb 👋
 #### I am a beginner developer from Kazan, Russia.
 ![I am a beginner developer from Kazan, Russia.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -13,4 +13,4 @@ Skills: C/C++ / Python / Java / Linux / SQL / Make / Vim / Bash / Git / JSON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LineGM)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LineGM)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LineGM&show_icons=true)  
