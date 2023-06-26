@@ -1,6 +1,5 @@
 ### Hi, my name is Gleb 👋
 #### I am a beginner developer from Kazan, Russia.
-![I am a beginner developer from Kazan, Russia.](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
