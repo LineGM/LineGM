@@ -1,8 +1,8 @@
 <h1> Hi, welcome! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h1>
 
-My name is Gleb and I'm a fourth-year student at the Kazan National Research Technical University named after A.N. Tupolev - KAI :airplane:
+My name is Gleb and I'm a fourth-year student at the Kazan National Research Technical University named after A.N. Tupolev - KAI :airplane: at the Bachelor degree programme.
 
-My specialty: Informatics and computer engineering. Artificial intelligence and CAD.
+My major: Informatics and computer engineering. Artificial intelligence and CAD.
 
 Additionally, I am getting an education in computer science at School 21, which is sponsored by the largest Russian IT company - Sberbank. My nickname is Lhanna.
 
