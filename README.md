@@ -2,7 +2,9 @@
 #### I am a beginner developer from Kazan, Russia.
 
 At the moment I am a fourth-year student at the Kazan National Research Technical University named after A.N. Tupolev - KAI :airplane:
+
 My specialty: Informatics and computer engineering. Artificial intelligence and CAD.
+
 Additionally, I am getting an education in computer science at School 21, which is sponsored by the largest Russian IT company - Sberbank. My nickname is Lhanna.
 
 <div id="header" align="center">
