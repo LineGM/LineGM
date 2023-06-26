@@ -28,6 +28,5 @@
 
 C/C++ / Python / Java / Linux / SQL / Make / Vim / Bash / Git / JSON
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LineGM)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LineGM&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LineGM&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LineGM) 
