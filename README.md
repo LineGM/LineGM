@@ -12,7 +12,7 @@ Additionally, I am getting an education in computer science at School 21, which 
   </a>
 </div>
 
-## Skills:
+<h1> Skills </h1>:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
