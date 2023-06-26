@@ -7,7 +7,7 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/LineGM">
-  <img src="https://img.shields.io/badge/telegram-LineGM-blue?style=for-the-badge&logo=tg&logoColor=white">
+  <img src="https://img.shields.io/badge/telegram-LineGM-black?style=for-the-badge&logo=tg&logoColor=white">
   </a>
 </div>
 
