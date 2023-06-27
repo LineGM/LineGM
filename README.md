@@ -1,4 +1,4 @@
-<h1> Hi, welcome! <img src="https://github.com/jglovier/gifs/blob/gh-pages/high-five/pokemon-high-five-2.gif" width="40" height="40"/></h1>
+<h1> Hi, welcome! <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="40"/></h1>
 
 My name is Gleb and I'm a fourth-year student at the Kazan National Research Technical University named after A.N. Tupolev - KAI :airplane: at the Bachelor degree programme.
 
