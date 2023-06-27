@@ -1,4 +1,4 @@
-<h1> Hi, welcome! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/> ![image](https://github.com/LineGM/LineGM/assets/28562738/19ad8758-2edb-466b-a1b5-263a1c3d1023) </h1>
+<h1> Hi, welcome! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"/></h1>
 
 My name is Gleb and I'm a fourth-year student at the Kazan National Research Technical University named after A.N. Tupolev - KAI :airplane: at the Bachelor degree programme.
 
