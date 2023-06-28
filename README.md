@@ -27,7 +27,7 @@ Additionally, I am getting an education in computer science at School 21, which 
   <img src="https://user-images.githubusercontent.com/11060565/181719546-bc83cdb5-faa0-4e98-919c-a0e45e8e68be.png" title="JSON" alt="JSON" width="40" height="40"/>&nbsp;
 </div>
 
-C/C++ / Python / Java / Linux / SQL / Make / Vim / Bash / Git / JSON
+C/C++ / Python / Java / Linux / SQL / Make / Vim / Bash / Git / JSON 
 
 <h2> Stats </h2>
 
