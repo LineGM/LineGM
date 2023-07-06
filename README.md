@@ -4,7 +4,7 @@ My name is Gleb and I'm a fourth-year student at the Kazan National Research Tec
 
 My major: Informatics and computer engineering. Artificial intelligence and CAD. 
 
-Additionally, I am getting an education in computer science at School 21, which is sponsored by the largest national IT company - Sberbank. My nickname is Lhanna.
+Additionally, I am getting an education at School 21, which is sponsored by the largest national IT company - Sberbank. My nickname is Lhanna.
 
 <div id="badges" align="center">
   <a href="https://t.me/LineGM">
