@@ -17,6 +17,7 @@ Additionally, I am getting an education at School 21, which is sponsored by the 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/1300762" title="Doxygen" alt="Doxygen" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
@@ -26,7 +27,7 @@ Additionally, I am getting an education at School 21, which is sponsored by the 
   <img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
 
-C/C++ / CMake / Doxygen / Git / Linux / Python / Bash / Vim / SQL
+C/C++ / CMake / Qt / Doxygen / Git / Linux / Python / Bash / Vim / SQL
 
 <h2> Stats </h2>
 
