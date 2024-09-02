@@ -1,10 +1,10 @@
 <h1> Hi, welcome! <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="40"/> </h1>
 
-I'm Gleb Gudkov, a first-year student at the master's program of the Kazan Aviation Institute (KNRTU-KAI)✈️
+I'm Gleb Gudkov, a first-year student at the master's program of the Kazan Aviation Institute (<a href="https://kai.ru/web/en">KNRTU-KAI</a>)✈️
 
 My major: Informatics and computer engineering. Artificial intelligence and CAD. 
 
-Also, I am a alumnus of the Kazan branch of School 21 (intra platform). My nickname is Lhanna there.
+Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it was still part of <a href="https://www.42network.org/">Association 42</a>. My nickname was Lhanna.
 
 <div id="badges" align="center">
   <a href="https://t.me/LineGM">
