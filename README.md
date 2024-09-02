@@ -1,10 +1,10 @@
 <h1> Hi, welcome! <img src="https://i.pinimg.com/originals/e0/db/86/e0db8690895407d039b94f75b6244035.gif" width="40"/> </h1>
 
-My name is Gleb and I'm a fourth-year student at the Kazan National Research Technical University named after A.N. Tupolev - KAI :airplane: at the Bachelor degree programme.
+I'm Gleb Gudkov, a first-year student at the master's program of the Kazan Aviation Institute (KNRTU-KAI)✈️.
 
 My major: Informatics and computer engineering. Artificial intelligence and CAD. 
 
-Additionally, I am getting an education at School 21, which is sponsored by the largest national IT company - Sberbank. My nickname is Lhanna.
+Also, I am a alumnus (intra platform) of the Kazan branch of School 21, which is sponsored by the largest national IT company, Sberbank. My nickname is Lhanna there.
 
 <div id="badges" align="center">
   <a href="https://t.me/LineGM">
