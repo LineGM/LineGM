@@ -4,7 +4,7 @@ I'm Gleb Gudkov, a first-year student at the master's program of the Kazan Aviat
 
 My major: Informatics and computer engineering. Artificial intelligence and CAD. 
 
-Also, I am a alumnus (intra platform) of the Kazan branch of School 21, which is sponsored by the largest national IT company, Sberbank. My nickname is Lhanna there.
+Also, I am a alumnus of the Kazan branch of School 21 (intra platform), which is sponsored by the largest national IT company, Sberbank. My nickname is Lhanna there.
 
 <div id="badges" align="center">
   <a href="https://t.me/LineGM">
