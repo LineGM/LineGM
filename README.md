@@ -15,5 +15,4 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 <h2> Stats </h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LineGM&layout=donut)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LineGM&show_icons=true)
