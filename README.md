@@ -12,6 +12,11 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
   </a>
 </div>
 
+---
+## View my verified badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <h2> Stats </h2>
 
 |[![LineGM Github stats](https://github-readme-stats.vercel.app/api?username=LineGM&count_private=true&show_icons=true&hide_border=true&theme=dark)](https://github.com/LineGM?tab=repositories) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LineGM&layout=compact&hide_border=true&theme=dark)](https://github.com/ftonita?tab=repositories) |
