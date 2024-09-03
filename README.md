@@ -12,7 +12,7 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
   </a>
 </div>
 
-## View my verified badges
+## View my badges
 <!--START_SECTION:badges-->
 [![LFEL1002: Getting Started with Rust](https://images.credly.com/size/110x110/images/9e478ab1-75e8-48ab-a34b-de956403d397/image.png)](http://www.credly.com/badges/945837cc-1400-4a9a-abd1-f67bff1a5ce5 "LFEL1002: Getting Started with Rust")
 [![42 Cursus - Junior Developer - Level 12](https://images.credly.com/size/110x110/images/f0afa329-e6eb-4ca0-b9e0-163f46672a08/image.png)](http://www.credly.com/badges/213cd39a-6469-4d0f-a40e-2437acb1cc1a "42 Cursus - Junior Developer - Level 12")
