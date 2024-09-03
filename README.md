@@ -12,7 +12,6 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
   </a>
 </div>
 
----
 ## View my verified badges
 <!--START_SECTION:badges-->
 [![LFEL1002: Getting Started with Rust](https://images.credly.com/size/110x110/images/9e478ab1-75e8-48ab-a34b-de956403d397/image.png)](http://www.credly.com/badges/945837cc-1400-4a9a-abd1-f67bff1a5ce5 "LFEL1002: Getting Started with Rust")
