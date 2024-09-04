@@ -22,5 +22,5 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 <h2> Stats </h2>
 
-|[![LineGM Github stats](https://github-readme-stats.vercel.app/api?username=LineGM&count_private=true&show_icons=true&hide_border=true&theme=cobalt)](https://github.com/LineGM?tab=repositories) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LineGM&layout=compact&hide_border=true&theme=cobalt) |
+|[![LineGM Github stats](https://github-readme-stats.vercel.app/api?username=LineGM&count_private=true&show_icons=true&hide_border=true&theme=cobalt&hide_rank=true)](https://github.com/LineGM?tab=repositories) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LineGM&layout=compact&hide_border=true&theme=cobalt) |
 |---|---|
