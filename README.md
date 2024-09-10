@@ -14,6 +14,7 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
+[![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/110x110/images/eb2e256d-e6ae-4173-be1b-7cee5e8c35ac/image.png)](http://www.credly.com/badges/67b8725e-a071-4a97-869a-6d5551443f7b "LFS151: Introduction to Cloud Infrastructure Technologies")
 [![LFS167: Introduction to Jenkins](https://images.credly.com/size/110x110/images/02151fc3-7e8b-47aa-8140-6b51da847e50/image.png)](http://www.credly.com/badges/be8bbfa4-5445-4be1-9814-2078cf7d238a "LFS167: Introduction to Jenkins")
 [![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/110x110/images/f7cec857-af48-48b2-897a-ff98e446d6e1/image.png)](http://www.credly.com/badges/622a189a-c209-44ca-a94d-647881a758a1 "LFS162: Introduction to DevOps and Site Reliability Engineering")
 [![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/9b634d55-5b04-4b54-bf99-1265600f235a/image.png)](http://www.credly.com/badges/8a3770dc-8b2b-4215-8ff5-9ae21e5c3783 "LFS169: Introduction to GitOps")
