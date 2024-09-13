@@ -14,12 +14,12 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
-[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/9fb38928-c145-4952-9bab-7cb81082ff4f/image.png)](http://www.credly.com/badges/f692936d-c839-4324-9a42-6bf299675e94 "LFS158: Introduction to Kubernetes")
-[![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/110x110/images/eb2e256d-e6ae-4173-be1b-7cee5e8c35ac/image.png)](http://www.credly.com/badges/67b8725e-a071-4a97-869a-6d5551443f7b "LFS151: Introduction to Cloud Infrastructure Technologies")
-[![LFS167: Introduction to Jenkins](https://images.credly.com/size/110x110/images/02151fc3-7e8b-47aa-8140-6b51da847e50/image.png)](http://www.credly.com/badges/be8bbfa4-5445-4be1-9814-2078cf7d238a "LFS167: Introduction to Jenkins")
-[![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/110x110/images/f7cec857-af48-48b2-897a-ff98e446d6e1/image.png)](http://www.credly.com/badges/622a189a-c209-44ca-a94d-647881a758a1 "LFS162: Introduction to DevOps and Site Reliability Engineering")
-[![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/9b634d55-5b04-4b54-bf99-1265600f235a/image.png)](http://www.credly.com/badges/8a3770dc-8b2b-4215-8ff5-9ae21e5c3783 "LFS169: Introduction to GitOps")
-[![LFEL1002: Getting Started with Rust](https://images.credly.com/size/110x110/images/9e478ab1-75e8-48ab-a34b-de956403d397/image.png)](http://www.credly.com/badges/945837cc-1400-4a9a-abd1-f67bff1a5ce5 "LFEL1002: Getting Started with Rust")
+[![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](http://www.credly.com/badges/f692936d-c839-4324-9a42-6bf299675e94 "LFS158: Introduction to Kubernetes")
+[![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/110x110/images/c52b0e6e-e171-41c2-a459-b8e618ea1e72/blob)](http://www.credly.com/badges/67b8725e-a071-4a97-869a-6d5551443f7b "LFS151: Introduction to Cloud Infrastructure Technologies")
+[![LFS167: Introduction to Jenkins](https://images.credly.com/size/110x110/images/0f5127c3-639b-47f2-abca-01107591c639/blob)](http://www.credly.com/badges/be8bbfa4-5445-4be1-9814-2078cf7d238a "LFS167: Introduction to Jenkins")
+[![LFS162: Introduction to DevOps and Site Reliability Engineering](https://images.credly.com/size/110x110/images/2397c05c-eb0e-4b08-be97-9e8261d43125/blob)](http://www.credly.com/badges/622a189a-c209-44ca-a94d-647881a758a1 "LFS162: Introduction to DevOps and Site Reliability Engineering")
+[![LFS169: Introduction to GitOps](https://images.credly.com/size/110x110/images/032a65da-a036-4d05-ad80-8fc1274363ab/blob)](http://www.credly.com/badges/8a3770dc-8b2b-4215-8ff5-9ae21e5c3783 "LFS169: Introduction to GitOps")
+[![LFEL1002: Getting Started with Rust](https://images.credly.com/size/110x110/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob)](http://www.credly.com/badges/945837cc-1400-4a9a-abd1-f67bff1a5ce5 "LFEL1002: Getting Started with Rust")
 [![42 Cursus - Junior Developer - Level 12](https://images.credly.com/size/110x110/images/f0afa329-e6eb-4ca0-b9e0-163f46672a08/image.png)](http://www.credly.com/badges/213cd39a-6469-4d0f-a40e-2437acb1cc1a "42 Cursus - Junior Developer - Level 12")
 <!--END_SECTION:badges-->
 
