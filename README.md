@@ -14,6 +14,7 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
+[![LFS147: Introduction to AI/ML Toolkits with Kubeflow](https://images.credly.com/size/110x110/images/906144d4-60a6-467f-8b0f-006d4548844f/blob)](http://www.credly.com/badges/b4c8f81d-93c0-4767-8ce7-92e5b8929b60 "LFS147: Introduction to AI/ML Toolkits with Kubeflow")
 [![LFS157: Introduction to Serverless on Kubernetes](https://images.credly.com/size/110x110/images/3cdbeb68-f2c2-43e9-ad18-c97cb719c3b0/blob)](http://www.credly.com/badges/5d616ecc-b6d7-43bf-9c82-a963e398581e "LFS157: Introduction to Serverless on Kubernetes")
 [![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](http://www.credly.com/badges/f692936d-c839-4324-9a42-6bf299675e94 "LFS158: Introduction to Kubernetes")
 [![LFS151: Introduction to Cloud Infrastructure Technologies](https://images.credly.com/size/110x110/images/c52b0e6e-e171-41c2-a459-b8e618ea1e72/blob)](http://www.credly.com/badges/67b8725e-a071-4a97-869a-6d5551443f7b "LFS151: Introduction to Cloud Infrastructure Technologies")
