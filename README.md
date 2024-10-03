@@ -14,6 +14,8 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
+[![Advanced Kubernetes Operators](https://images.credly.com/size/110x110/images/711b1833-527f-44c1-bece-67c570e480b9/blob)](http://www.credly.com/badges/50040cd2-df31-415b-a185-0df76c768c29 "Advanced Kubernetes Operators")
+[![Intermediate Kubernetes Operators](https://images.credly.com/size/110x110/images/49173e9c-a2ac-4c0f-aae9-e36fd1994413/blob)](http://www.credly.com/badges/5cf074d3-a2c7-42db-b0bf-6e486f2c70d6 "Intermediate Kubernetes Operators")
 [![Containers, K8s and Istio on IBM Cloud](https://images.credly.com/size/110x110/images/8597c132-e756-421a-8640-b84b30f1f2ac/blob)](http://www.credly.com/badges/bf9a1707-59e4-4165-b164-eaf8f52a24c4 "Containers, K8s and Istio on IBM Cloud")
 [![Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob)](http://www.credly.com/badges/ab9bcc5f-6a5e-46aa-ac31-cd3a20f919e5 "Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service")
 [![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/1cbf0444-1752-4ac8-b43c-3389004bec2a/blob)](http://www.credly.com/badges/804d0aa4-2424-4142-be1b-06eabab14de5 "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
