@@ -14,6 +14,9 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
+[![Containers, K8s and Istio on IBM Cloud](https://images.credly.com/size/110x110/images/8597c132-e756-421a-8640-b84b30f1f2ac/blob)](http://www.credly.com/badges/bf9a1707-59e4-4165-b164-eaf8f52a24c4 "Containers, K8s and Istio on IBM Cloud")
+[![Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob)](http://www.credly.com/badges/ab9bcc5f-6a5e-46aa-ac31-cd3a20f919e5 "Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service")
+[![Beyond the Basics: Istio and IBM Cloud Kubernetes Service](https://images.credly.com/size/110x110/images/1cbf0444-1752-4ac8-b43c-3389004bec2a/blob)](http://www.credly.com/badges/804d0aa4-2424-4142-be1b-06eabab14de5 "Beyond the Basics: Istio and IBM Cloud Kubernetes Service")
 [![Containers & Kubernetes Essentials](https://images.credly.com/size/110x110/images/82966826-6630-4768-80d4-6028b3fab414/image.png)](http://www.credly.com/badges/78f2f2d8-ee68-4d20-af2b-fb823eceafbc "Containers & Kubernetes Essentials")
 [![LFS147: Introduction to AI/ML Toolkits with Kubeflow](https://images.credly.com/size/110x110/images/906144d4-60a6-467f-8b0f-006d4548844f/blob)](http://www.credly.com/badges/b4c8f81d-93c0-4767-8ce7-92e5b8929b60 "LFS147: Introduction to AI/ML Toolkits with Kubeflow")
 [![LFS157: Introduction to Serverless on Kubernetes](https://images.credly.com/size/110x110/images/3cdbeb68-f2c2-43e9-ad18-c97cb719c3b0/blob)](http://www.credly.com/badges/5d616ecc-b6d7-43bf-9c82-a963e398581e "LFS157: Introduction to Serverless on Kubernetes")
