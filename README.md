@@ -14,6 +14,8 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
+[![LFD121: Developing Secure Software](https://images.credly.com/size/110x110/images/ee986187-6637-45e9-8184-8382dc117432/blob)](http://www.credly.com/badges/b8703e72-d6ea-4de0-8b56-2c9ee7f647b3 "LFD121: Developing Secure Software")
+[![LFC108: Cybersecurity Essentials](https://images.credly.com/size/110x110/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob)](http://www.credly.com/badges/196f85b1-32e4-402b-a34b-f777e5e0c326 "LFC108: Cybersecurity Essentials")
 [![Advanced Kubernetes Operators](https://images.credly.com/size/110x110/images/711b1833-527f-44c1-bece-67c570e480b9/blob)](http://www.credly.com/badges/50040cd2-df31-415b-a185-0df76c768c29 "Advanced Kubernetes Operators")
 [![Intermediate Kubernetes Operators](https://images.credly.com/size/110x110/images/49173e9c-a2ac-4c0f-aae9-e36fd1994413/blob)](http://www.credly.com/badges/5cf074d3-a2c7-42db-b0bf-6e486f2c70d6 "Intermediate Kubernetes Operators")
 [![Containers, K8s and Istio on IBM Cloud](https://images.credly.com/size/110x110/images/8597c132-e756-421a-8640-b84b30f1f2ac/blob)](http://www.credly.com/badges/bf9a1707-59e4-4165-b164-eaf8f52a24c4 "Containers, K8s and Istio on IBM Cloud")
