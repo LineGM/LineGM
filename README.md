@@ -14,6 +14,7 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
+[![LFS183: Introduction to Zero Trust](https://images.credly.com/size/110x110/images/030d09ff-a748-4dad-a76f-da3fc4d2c25b/blob)](http://www.credly.com/badges/c2b57458-8598-4851-8af2-e0183d5e743e "LFS183: Introduction to Zero Trust")
 [![LFD121: Developing Secure Software](https://images.credly.com/size/110x110/images/ee986187-6637-45e9-8184-8382dc117432/blob)](http://www.credly.com/badges/b8703e72-d6ea-4de0-8b56-2c9ee7f647b3 "LFD121: Developing Secure Software")
 [![LFC108: Cybersecurity Essentials](https://images.credly.com/size/110x110/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob)](http://www.credly.com/badges/196f85b1-32e4-402b-a34b-f777e5e0c326 "LFC108: Cybersecurity Essentials")
 [![Advanced Kubernetes Operators](https://images.credly.com/size/110x110/images/711b1833-527f-44c1-bece-67c570e480b9/blob)](http://www.credly.com/badges/50040cd2-df31-415b-a185-0df76c768c29 "Advanced Kubernetes Operators")
