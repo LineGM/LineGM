@@ -14,6 +14,7 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
+[![LFD116: Software Engineering Basics for Embedded Systems](https://images.credly.com/size/110x110/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob)](http://www.credly.com/badges/b2f68527-8a8a-4cc5-a9a2-e006b1c1b3bf "LFD116: Software Engineering Basics for Embedded Systems")
 [![LFS183: Introduction to Zero Trust](https://images.credly.com/size/110x110/images/030d09ff-a748-4dad-a76f-da3fc4d2c25b/blob)](http://www.credly.com/badges/c2b57458-8598-4851-8af2-e0183d5e743e "LFS183: Introduction to Zero Trust")
 [![LFD121: Developing Secure Software](https://images.credly.com/size/110x110/images/ee986187-6637-45e9-8184-8382dc117432/blob)](http://www.credly.com/badges/b8703e72-d6ea-4de0-8b56-2c9ee7f647b3 "LFD121: Developing Secure Software")
 [![LFC108: Cybersecurity Essentials](https://images.credly.com/size/110x110/images/e79f9317-b3f7-4b57-a859-f24d5f25fe36/blob)](http://www.credly.com/badges/196f85b1-32e4-402b-a34b-f777e5e0c326 "LFC108: Cybersecurity Essentials")
