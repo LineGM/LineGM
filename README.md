@@ -14,6 +14,7 @@ Also, I am an alumni of the Kazan branch of School 21 (intra platform), when it 
 
 ## View my badges
 <!--START_SECTION:badges-->
+[![Building GenAI Applications with MongoDB](https://images.credly.com/size/110x110/images/5bca6dc6-1e23-4f72-9368-dbc0cbf8b5cc/blob)](http://www.credly.com/badges/fa42f413-d799-44b6-ad58-bb2dedf70f40 "Building GenAI Applications with MongoDB")
 [![LFD110: Introduction to RISC-V](https://images.credly.com/size/110x110/images/fe724d20-7a05-417e-b10a-29e458a3fc04/blob)](http://www.credly.com/badges/ec5a9c91-1fac-4746-93d4-5d124ab83cd8 "LFD110: Introduction to RISC-V")
 [![LFD116: Software Engineering Basics for Embedded Systems](https://images.credly.com/size/110x110/images/f193424d-0f7b-4e05-99df-82c8da2feec1/blob)](http://www.credly.com/badges/b2f68527-8a8a-4cc5-a9a2-e006b1c1b3bf "LFD116: Software Engineering Basics for Embedded Systems")
 [![LFS183: Introduction to Zero Trust](https://images.credly.com/size/110x110/images/030d09ff-a748-4dad-a76f-da3fc4d2c25b/blob)](http://www.credly.com/badges/c2b57458-8598-4851-8af2-e0183d5e743e "LFS183: Introduction to Zero Trust")
